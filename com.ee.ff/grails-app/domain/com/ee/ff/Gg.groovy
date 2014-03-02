@@ -2,7 +2,7 @@ package com.ee.ff
 
 class Gg {
 String name
-String kikioklkhd
+String ppp
     static constraints = {
 		name(blank:false)
     }

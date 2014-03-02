@@ -10,5 +10,6 @@
 	<g:textField name="name" required="" value="${ggInstance?.name}"/>
 	<%-- <g:textArea name="myField" value=""/>--%>
 	 <g:submitButton name="save" value="save" />
+	 
 </div>
 
